@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://github.com/Zivalez/ZivalezStreamAPP/blob/master/ZivalezFP.png" width="400" height="400" border="10"/>
+<img src="https://github.com/Zivalez/ZivalezStreamAPP/blob/master/ZivalezFP.png" width="300" height="300" border="10"/>
 </p>
 
 ZivStream is an application for streaming/downloading media.
