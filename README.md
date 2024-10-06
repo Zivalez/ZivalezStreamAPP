@@ -1,16 +1,42 @@
-# zivalezapp
+<h1 align="center">
+  ZivStream
+</h1>
 
-A new Flutter project.
+<p align="center">
+<img src="https://github.com/Zivalez/ZivalezStreamAPP/blob/master/ZivalezFP.png" width="400" height="400" border="10"/>
+</p>
 
-## Getting Started
+ZivStream is an application for streaming/downloading media.
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ZivStream processes data from websites and filters the necessary information, eliminating ads for a smoother experience. This application does not require an account to use it.
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Search
+- Recently Added
+- Anime Recommendations
+- Movies
+- Download Anime Batch
+- Light/Dark Mode Toggle
+- Auto Quality for Video Playback
+- Ads Free Video Playback
+- Support Picture-in-picture (PiP)
+
+## 💻 Install
+
+Platform | Download | Status
+:-: | :-: | :-: |
+Android | ❎ | un-released
+
+## FAQ
+
+#### Q : Is there a history of videos that have been watched?
+
+A : Not yet, but it will be soon.
+
+#### Q : Need an account to watch videos?
+
+A : No need.
+
